@@ -12,5 +12,6 @@ int main()
 	}
 	cout << "So dao nguoc la: " << nn;
 	cout << endl;
+	system("pause");
 	return 0;
 }
